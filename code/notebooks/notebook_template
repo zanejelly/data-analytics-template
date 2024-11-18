@@ -1,0 +1,13 @@
+# Project name
+
+**Author:** Zane Jellison
+**Last Modified:** 11/17/2024 (created: 11/17/2024)
+
+**Description:** Template for notebook files
+
+Import libraries:
+import pandas as pd
+<br>
+Load data:
+
+# code to read csv file
